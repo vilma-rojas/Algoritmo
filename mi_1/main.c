@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+//Dados dos valores enteros A y B, informar la suma, la resta y el producto.
+
 int main(){
 
     int suma(int, int);
