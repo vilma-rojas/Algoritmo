@@ -20,13 +20,13 @@ int main()
     scanf ("%d",&anio);
 
     if(dia < 10 && mes < 10){
-        printf ("Calendario: 0%d",dia);
+        printf ("Calendario: %d",anio);
         printf ("0%d", mes);
-        printf ("%d", anio);
+        printf ("0%d", dia);
     } else {
-        printf ("Calendario: %d",dia);
+        printf ("Calendario: %d",nio);
         printf ("%d", mes);
-        printf ("%d", anio);
+        printf ("%d", dia);
     }
 
 
