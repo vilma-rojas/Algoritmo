@@ -16,7 +16,7 @@ int main()
     int num;
 
     printf ("Introuzca numero: ");
-    scanf ("%d",&num);;
+    scanf ("%d",&num);
 
     printf("a) La quinta parte es: %d\n", partes(num, 5));
     printf("a) El resto de la division es: %d\n", restoDeLaDivisionPor5(num));
