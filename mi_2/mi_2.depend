@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629577062 source:c:\users\vilma\desktop\algoritmo\mi_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

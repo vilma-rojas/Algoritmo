@@ -11,9 +11,9 @@ int main(){
     int multiplicacion(int, int);
 
     int num1, num2;
-    printf ("Elija Un Numero A: ");
+    printf ("Introuzca el primer numero A: ");
     scanf ("%d",&num1);
-    printf ("Elija Un Numero B: ");
+    printf ("Introduzca el segundo numero B: ");
     scanf ("%d",&num2);
     printf ("La suma es: %d\n",suma(num1, num2));
     printf ("La resta es: %d\n",resta(num1, num2));
